@@ -9,7 +9,7 @@
 </td>
 <td width="100" align="center">
 <a href="https://github.com/Shin-Sujin">
-<img src="https://github.com/user-attachments/assets/fd9eb9a0-596c-4c3e-9369-251e7bd7edcd" width="60" height="200">
+<img src="https://github.com/user-attachments/assets/fd9eb9a0-596c-4c3e-9369-251e7bd7edcd" width="60" height="60">
 </a>
 </td>
 <td width="100" align="center">
@@ -29,7 +29,7 @@
 </td>
 <td width="100" align="center">
 <a href="https://github.com/Boseong0902">
-<img src="https://github.com/user-attachments/assets/2dc73612-ee89-45c8-8d17-ab8a5d922080" width="60" height="60">
+<img src="https://github.com/user-attachments/assets/2dc73612-ee89-45c8-8d17-ab8a5d922080" width="60" height="200">
 </a>
 </td>
 </tr>
