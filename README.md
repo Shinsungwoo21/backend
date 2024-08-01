@@ -24,7 +24,7 @@
 </td>
 <td width="100" align="center">
 <a href="https://github.com/yksoo00">
-<img src="" width="80" height="80">
+<img src="https://github.com/user-attachments/assets/cba82a56-c81e-447f-943e-694b78d39287" width="80" height="80">
 </a>
 </td>
 <td width="100" align="center">
