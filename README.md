@@ -8,8 +8,8 @@
 </a>
 </td>
 <td width="100" align="center">
-<a href="https://github.com/songwol38">
-<img src="https://github.com/user-attachments/assets/bdb0da06-6ac3-4356-a4bd-482a5375dd54" width="60" height="60">
+<a href="https://github.com/Shin-Sujin">
+<img src="https://github.com/user-attachments/assets/bdb0da06-6ac3-4356-a4bd-482a5375dd54" width="100" height="100">
 </a>
 </td>
 <td width="100" align="center">
