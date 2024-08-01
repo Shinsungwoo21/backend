@@ -44,7 +44,7 @@
 </tr>
 <tr>
 <th>Position</th>
-<td width="150" height="40" align="center">
+<td width="150" height="20" align="center">
 Team Leader<br>
 Frontend<br>
 DevOps<br>
