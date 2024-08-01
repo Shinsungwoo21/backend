@@ -70,28 +70,6 @@ DevOps
 </td>
 </tr>
 <tr>
-<th>GitHub</th>
-<td width="100" align="center">
-<a href="https://github.com/jungeunyooon">
-<img src="http://img.shields.io/badge/jungeunyooon-green?style=social&logo=github"/>
-</a>
-</td>
-<td width="100" align="center">
-<a href="https://github.com/songwol38">
-<img src="http://img.shields.io/badge/songwol38-green?style=social&logo=github"/>
-</a>
-</td>
-<td width="100" align="center">
-<a href="https://github.com/qsc6543">
-<img src="http://img.shields.io/badge/qsc6543-green?style=social&logo=github"/>
-</a>
-</td>
-<td width="100" align="center">
-<a href="https://github.com/seungje1217">
-<img src="http://img.shields.io/badge/seungje1217-green?style=social&logo=github"/>
-</a>
-</td>
-</tr>
 </thead>
 </table>
 
