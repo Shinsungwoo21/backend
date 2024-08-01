@@ -80,7 +80,7 @@ DevOps
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github.com/user-attachments/assets/b3e7a942-856f-407d-9c71-3bf8fe16bd90" alt="Docker Dashboard" style="width: 700px; height: 400px;">
+      <img src="https://github.com/user-attachments/assets/b3e7a942-856f-407d-9c71-3bf8fe16bd90" alt="Docker Dashboard" style="width: 600px; height: 300px;">
     </td>
   </tr>
   <tr>
@@ -114,7 +114,7 @@ DevOps
 
 
 
-
+Docker dash
 ![도커 대쉬보드](https://github.com/user-attachments/assets/b3e7a942-856f-407d-9c71-3bf8fe16bd90)
 ![셀러리 대쉬보드](https://github.com/user-attachments/assets/18048a66-2988-467e-972b-5361deba062d)
 ![FastAPI 대쉬보드](https://github.com/user-attachments/assets/4a7a534f-f7bc-40a0-b329-b1cca886ebce)
