@@ -4,7 +4,7 @@
 <th>Profiles</th>
 <td width="100" align="center">
 <a href="https://github.com/devwoon">
-<img src="https://github.com/user-attachments/assets/cee90a0d-2043-4946-96ef-fcf88ae0af43" width="100" height="100">
+<img src="https://github.com/user-attachments/assets/cee90a0d-2043-4946-96ef-fcf88ae0af43" width="80" height="80">
 </a>
 </td>
 <td width="100" align="center">
@@ -14,7 +14,7 @@
 </td>
 <td width="100" align="center">
 <a href="https://github.com/Shinsungwoo21">
-<img src="" width="100" height="100">
+<img src="" width="80" height="80">
 </a>
 </td>
 <td width="100" align="center">
@@ -24,12 +24,12 @@
 </td>
 <td width="100" align="center">
 <a href="https://github.com/yksoo00">
-<img src="" width="100" height="100">
+<img src="" width="80" height="80">
 </a>
 </td>
 <td width="100" align="center">
 <a href="https://github.com/Boseong0902">
-<img src="" width="100" height="100">
+<img src="" width="80" height="80">
 </a>
 </td>
 </tr>
