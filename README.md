@@ -44,27 +44,27 @@
 </tr>
 <tr>
 <th>Position</th>
-<td width="150" height="70" align="center">
+<td width="150" height="60" align="center">
 Team Leader<br>
 Frontend<br>
 DevOps<br>
 </td>
-<td width="150" align="center">
+<td width="150" height="60" align="center">
 Frontend<br>
 DevOps<br>
 </td>
-<td width="150" align="center">
+<td width="150" height="60" align="center">
 Frontend
 </td>
-<td width="150" align="center">
+<td width="150" height="60" align="center">
 Backend<br>
 DevOps
 </td>
-<td width="150" align="center">
+<td width="150" height="60" align="center">
 Backend<br>
 DevOps
 </td>
-<td width="150" align="center">
+<td width="150" height="60" align="center">
 Backend<br>
 DevOps
 </td>
