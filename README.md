@@ -80,7 +80,7 @@ DevOps
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github.com/user-attachments/assets/b3e7a942-856f-407d-9c71-3bf8fe16bd90" alt="Docker Dashboard" style="width: 600px; height: 300px;">
+      <img src="https://github.com/user-attachments/assets/b3e7a942-856f-407d-9c71-3bf8fe16bd90" alt="Docker Dashboard" style="width: 800px; height: 300px;">
     </td>
   </tr>
   <tr>
@@ -89,10 +89,10 @@ DevOps
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/18048a66-2988-467e-972b-5361deba062d" alt="Celery Dashboard" style="width: 500px; height: 400px;">
+      <img src="https://github.com/user-attachments/assets/18048a66-2988-467e-972b-5361deba062d" alt="Celery Dashboard" style="width: 400px; height: 200px;">
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/4a7a534f-f7bc-40a0-b329-b1cca886ebce" alt="FastAPI Dashboard" style="width: 500px; height: 400px;">
+      <img src="https://github.com/user-attachments/assets/4a7a534f-f7bc-40a0-b329-b1cca886ebce" alt="FastAPI Dashboard" style="width: 400px; height: 200px;">
     </td>
   </tr>
   <tr>
@@ -101,10 +101,10 @@ DevOps
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/de1f834d-59f1-4409-9b44-6b4899112302" alt="Nginx Dashboard" style="width: 500px; height: 400px;">
+      <img src="https://github.com/user-attachments/assets/de1f834d-59f1-4409-9b44-6b4899112302" alt="Nginx Dashboard" style="width: 400px; height: 200px;">
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/5560a6b9-2d14-4f65-aef7-b78fd6dbec98" alt="Rabbitmq Dashboard" style="width: 500px; height: 400px;">
+      <img src="https://github.com/user-attachments/assets/5560a6b9-2d14-4f65-aef7-b78fd6dbec98" alt="Rabbitmq Dashboard" style="width: 400px; height: 200px;">
     </td>
   </tr>
 </table>
