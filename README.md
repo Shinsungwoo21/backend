@@ -49,22 +49,22 @@ Team Leader<br>
 Frontend<br>
 DevOps<br>
 </td>
-<td width="150" height="40" align="center">
+<td width="150" align="center">
 Frontend<br>
 DevOps<br>
 </td>
-<td width="150" height="40" align="center">
+<td width="150" align="center">
 Frontend
 </td>
-<td width="150" height="40" align="center">
+<td width="150" align="center">
 Backend<br>
 DevOps
 </td>
-<td width="150" height="40" align="center">
+<td width="150" align="center">
 Backend<br>
 DevOps
 </td>
-<td width="150" height="40" align="center">
+<td width="150" align="center">
 Backend<br>
 DevOps
 </td>
