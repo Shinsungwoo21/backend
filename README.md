@@ -120,17 +120,28 @@ git clone https://github.com/2024-Summer-Bootcamp-TeamJ/Backend.git
 ### env setting in the Backend folder
 * backend/.env
 ```
+# mysql
 DATABASE_URL=
-CELERY_BROKER_URL=
 MYSQL_ROOT_PASSWORD=
 MYSQL_DATABASE=
+
+# CELERY
+CELERY_BROKER_URL=
+
+# openai
 OPENAI_API_KEY=
+GPT_MODEL=
+
+# AWS OPEN SEARCH
 OPENSEARCH_URL=
 OPENSEARCH_ADMIN=
 OPENSEARCH_PASSWORD=
-GPT_MODEL=
+
+# Administer
 ADMIN_USERNAME=
 ADMIN_PASSWORD=
+
+# Logging
 LOG_LEVEL=
 ```
 ### Run Docker
@@ -139,12 +150,11 @@ docker-compose up -d
 ```
 ### Frontend
 ```
-git clone --recursive https://github.com/2024-SUMMER-BOOTCAMP-TEAM-A/frontend.git
+git clone https://github.com/2024-Summer-Bootcamp-TeamJ/Frontend.git
 ```
 ### Install
 ```
-nvm use 20.0.0
-yarn add
+yarn install
 ```
 
 ### Run
