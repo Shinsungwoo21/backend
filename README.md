@@ -14,7 +14,7 @@
 </td>
 <td width="100" align="center">
 <a href="https://github.com/Shinsungwoo21">
-<img src="" width="80" height="80">
+<img src="https://github.com/user-attachments/assets/b82a4a66-58e2-40d6-a89b-e612f5ef00e9" width="80" height="80">
 </a>
 </td>
 <td width="100" align="center">
