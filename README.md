@@ -4,7 +4,7 @@
 <th>Profiles</th>
 <td width="100" align="center">
 <a href="https://github.com/devwoon">
-<img src="https://github.com/2023-Winter-Bootcamp-Team-J/.github/assets/113340283/b07082d0-28f9-442a-9e8d-d46aeed4f9d4" width="100" height="100">
+<img src="" width="100" height="100">
 </a>
 </td>
 <td width="100" align="center">
