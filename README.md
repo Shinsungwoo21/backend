@@ -19,7 +19,7 @@
 </td>
 <td width="100" align="center">
 <a href="https://github.com/bong-u">
-<img src="https://github.com/user-attachments/assets/5b3f19e5-d64b-4c77-bc99-e26e6db35b65" width="100" height="100">
+<img src="https://github.com/user-attachments/assets/5b3f19e5-d64b-4c77-bc99-e26e6db35b65" width="80" height="80">
 </a>
 </td>
 <td width="100" align="center">
