@@ -4,7 +4,7 @@
 <th>Profiles</th>
 <td width="100" align="center">
 <a href="https://github.com/devwoon">
-<img src="https://github.com/user-attachments/assets/daba4a5e-008b-4dd8-bdfd-ac752fa723e83" width="85" height="120">
+<img src="https://github.com/user-attachments/assets/daba4a5e-008b-4dd8-bdfd-ac752fa723e8" width="85" height="120">
 </a>
 </td>
 <td width="100" align="center">
