@@ -80,7 +80,7 @@ DevOps
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github.com/user-attachments/assets/17039269-ab98-46e7-8d77-31c5831d3ecf" alt="Docker Dashboard" style="width: 300px; height: 200px;">
+      <img src="https://github.com/user-attachments/assets/17039269-ab98-46e7-8d77-31c5831d3ecf" alt="Docker Dashboard" style="width: 600px; height: 200px;">
     </td>
   </tr>
   <tr>
