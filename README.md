@@ -29,7 +29,7 @@
 </td>
 <td width="100" align="center">
 <a href="https://github.com/Boseong0902">
-<img src="https://github.com/user-attachments/assets/2dc73612-ee89-45c8-8d17-ab8a5d922080" width="60" height="200">
+<img src="https://github.com/user-attachments/assets/2dc73612-ee89-45c8-8d17-ab8a5d922080" width="80" height="120">
 </a>
 </td>
 </tr>
