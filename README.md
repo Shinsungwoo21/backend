@@ -9,7 +9,7 @@
 </td>
 <td width="100" align="center">
 <a href="https://github.com/Shin-Sujin">
-<img src="https://github.com/user-attachments/assets/fd9eb9a0-596c-4c3e-9369-251e7bd7edcd" width="60" height="60">
+<img src="https://github.com/user-attachments/assets/fd9eb9a0-596c-4c3e-9369-251e7bd7edcd" width="60" height="100">
 </a>
 </td>
 <td width="100" align="center">
