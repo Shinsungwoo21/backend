@@ -4,7 +4,7 @@
 <th>Profiles</th>
 <td width="100" align="center">
 <a href="https://github.com/devwoon">
-<img src="https://github.com/user-attachments/assets/daba4a5e-008b-4dd8-bdfd-ac752fa723e8" width="85" height="120">
+<img src="https://github.com/user-attachments/assets/0d51417b-e814-443f-aca5-46bbbdb5e996" width="85" height="120">
 </a>
 </td>
 <td width="100" align="center">
@@ -74,7 +74,7 @@ DevOps
 
 
 
-
+![image](https://github.com/user-attachments/assets/0d51417b-e814-443f-aca5-46bbbdb5e996)
 ![갑똘](https://github.com/user-attachments/assets/2dc73612-ee89-45c8-8d17-ab8a5d922080)
 ![글루민](https://github.com/user-attachments/assets/b1a5a5c4-525a-4a42-b619-ffaefc4fce88)
 ![너굴](https://github.com/user-attachments/assets/daba4a5e-008b-4dd8-bdfd-ac752fa723e8)
