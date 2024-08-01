@@ -22,13 +22,25 @@
 <img src="https://github.com/user-attachments/assets/a663dcf4-e128-4112-a1eb-58d040a1e81f" width="60" height="60">
 </a>
 </td>
+<td width="100" align="center">
+<a href="https://github.com/seungje1217">
+<img src="https://github.com/user-attachments/assets/a663dcf4-e128-4112-a1eb-58d040a1e81f" width="60" height="60">
+</a>
+</td>
+<td width="100" align="center">
+<a href="https://github.com/seungje1217">
+<img src="https://github.com/user-attachments/assets/a663dcf4-e128-4112-a1eb-58d040a1e81f" width="60" height="60">
+</a>
+</td>
 </tr>
 <tr>
 <th>Name</th>
-<td width="100" align="center">윤정은</td>
-<td width="100" align="center">김민지</td>
-<td width="100" align="center">김종연</td>
-<td width="100" align="center">임승제</td>
+<td width="100" align="center">장정운</td>
+<td width="100" align="center">신수진</td>
+<td width="100" align="center">신성우</td>
+<td width="100" align="center">손봉우</td>
+<td width="100" align="center">연경수</td>
+<td width="100" align="center">박보성</td>
 </tr>
 <tr>
 <th>Position</th>
