@@ -100,11 +100,11 @@ DevOps
     </td>
   </tr>
   <tr>
-    <td align="center">Host Dashboard</td>
+    <td colspan="2" align="center">Host Dashboard</td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/17039269-ab98-46e7-8d77-31c5831d3ecf" alt="Host Dashboard" style="width: 600px; height: 200px;">
+      <img src="https://github.com/user-attachments/assets/17039269-ab98-46e7-8d77-31c5831d3ecf" alt="Host Dashboard" style="width: 300px; height: 200px;">
     </td>
   </tr>
 </table>
