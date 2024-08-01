@@ -113,13 +113,71 @@ DevOps
 
 
 
+### Backend 
+```
+git clone --recursive https://github.com/2024-SUMMER-BOOTCAMP-TEAM-A/backend.git
+```
+### env setting in the Backend folder
+* backend/.env
+```
+MYSQL_ROOT_PASSWORD=
+MYSQL_ROOT_PASSWORD=
+MYSQL_DATABASE=
+MYSQL_USER=
+MYSQL_PASSWORD=
+MYSQL_HOST=
+NODE_ENV=
+TZ=
 
-Docker dash
-![도커 대쉬보드](https://github.com/user-attachments/assets/b3e7a942-856f-407d-9c71-3bf8fe16bd90)
-![셀러리 대쉬보드](https://github.com/user-attachments/assets/18048a66-2988-467e-972b-5361deba062d)
-![FastAPI 대쉬보드](https://github.com/user-attachments/assets/4a7a534f-f7bc-40a0-b329-b1cca886ebce)
-![nginx 대쉬보드](https://github.com/user-attachments/assets/de1f834d-59f1-4409-9b44-6b4899112302)
-![rabbitmq 대쉬보드](https://github.com/user-attachments/assets/5560a6b9-2d14-4f65-aef7-b78fd6dbec98)
+OPENAI_API_KEY=
+CLOVA_API_KEY=
+CLOVA_CLIENT_ID=
+JWT_SECRET=
+REFRESH_TOKEN_SECRET=
+
+MONGO_INITDB_ROOT_USERNAME=
+MONGO_INITDB_ROOT_PASSWORD=
+MONGOEXPRESS_LOGIN=
+MONGOEXPRESS_PASSWORD=
+MONGO_LOCAL_URL=
+MONGODB_DOCKER_URL=
+ELEVENLABS_API_KEY=
+
+GOOGLE_CLOUD_PROJECT=
+GCLOUD_STORAGE_BUCKET=
+GCP_TYPE=
+GCP_PROJECT_ID=
+GCP_PRIVATE_KEY_ID=
+GCP_PRIVATE_KEY=
+GCP_CLIENT_EMAIL=
+GCP_AUTH_URI=
+GCP_TOKEN_URI=
+GCP_AUTH_PROVIDER_X509_CERT_URL=
+GCP_CLIENT_X509_CERT_URL=
+GCP_UNIVERSE_DOMAIN=
+
+ELASTIC_PASSWORD=
+LOGSTASH_INTERNAL_PASSWORD=
+```
+### Run Docker
+```
+docker-compose up -d --build
+```
+### Frontend
+```
+git clone --recursive https://github.com/2024-SUMMER-BOOTCAMP-TEAM-A/frontend.git
+```
+### Install
+```
+nvm use 20.0.0
+yarn add
+```
+
+### Run
+```
+yarn dev
+```
+</br>
 
 
 
