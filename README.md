@@ -1,4 +1,81 @@
-| [장정운](https://github.com/) | [신수진](https://github.com/)  | [신성우](https://github.com/Shinsungwoo21) | [손봉우](https://github.com/) | [연경수](https://github.com/) | [박보성](https://github.com/) |                                      
-|------------------------------------------|---------------------------------------------|----------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|
-|<img width = "520" src ="">|<img width = "520" src ="">|<img width = "520" src ="">|<img width = "520" src ="">| <img width = "520" src =""> | <img width = "520" src ="">| 
-| Team Leader, Frontend, DevOps | Frontend, DevOps | Frontend | Backend, DevOps | Backend, DevOps | Backend, DevOps | Backend, DevOps|
+<table width="100%" align="center" style="border-collapse: collapse; text-align: center;">
+<thead>
+<tr>
+<th>Profiles</th>
+<td width="100" align="center">
+<a href="https://github.com/devwoon">
+<img src="https://github.com/2023-Winter-Bootcamp-Team-J/.github/assets/113340283/b07082d0-28f9-442a-9e8d-d46aeed4f9d4" width="100" height="100">
+</a>
+</td>
+<td width="100" align="center">
+<a href="https://github.com/songwol38">
+<img src="https://github.com/user-attachments/assets/bdb0da06-6ac3-4356-a4bd-482a5375dd54" width="60" height="60">
+</a>
+</td>
+<td width="100" align="center">
+<a href="https://github.com/qsc6543">
+<img src="https://github.com/user-attachments/assets/831ef8d1-0674-42dd-88ac-dd2cb2eb90ae" width="60" height="60">
+</a>
+</td>
+<td width="100" align="center">
+<a href="https://github.com/seungje1217">
+<img src="https://github.com/user-attachments/assets/a663dcf4-e128-4112-a1eb-58d040a1e81f" width="60" height="60">
+</a>
+</td>
+</tr>
+<tr>
+<th>Name</th>
+<td width="100" align="center">윤정은</td>
+<td width="100" align="center">김민지</td>
+<td width="100" align="center">김종연</td>
+<td width="100" align="center">임승제</td>
+</tr>
+<tr>
+<th>Position</th>
+<td width="150" align="center">
+Team Leader<br>
+Backend<br>
+Frontend<br>
+DevOps<br>
+</td>
+<td width="150" align="center">
+Backend<br>
+Frontend<br>
+DevOps<br>
+</td>
+<td width="150" align="center">
+Backend<br>
+Frontend<br>
+DevOps<br>
+</td>
+<td width="150" align="center">
+Frontend<br>
+Backend<br>
+</td>
+</tr>
+<tr>
+<th>GitHub</th>
+<td width="100" align="center">
+<a href="https://github.com/jungeunyooon">
+<img src="http://img.shields.io/badge/jungeunyooon-green?style=social&logo=github"/>
+</a>
+</td>
+<td width="100" align="center">
+<a href="https://github.com/songwol38">
+<img src="http://img.shields.io/badge/songwol38-green?style=social&logo=github"/>
+</a>
+</td>
+<td width="100" align="center">
+<a href="https://github.com/qsc6543">
+<img src="http://img.shields.io/badge/qsc6543-green?style=social&logo=github"/>
+</a>
+</td>
+<td width="100" align="center">
+<a href="https://github.com/seungje1217">
+<img src="http://img.shields.io/badge/seungje1217-green?style=social&logo=github"/>
+</a>
+</td>
+</tr>
+</thead>
+</table>
+
