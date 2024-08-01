@@ -72,3 +72,56 @@ DevOps
 </thead>
 </table>
 
+
+
+<table align="center" style="border-collapse: collapse;">
+  <tr>
+    <td align="center">Prometheus Dashboard</td>
+    <td align="center">Node Express Dashboard</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/48d18d0f-f167-43c9-8dcb-77beb2f0b8c5" alt="Prometheus Dashboard" style="width: 300px; height: 200px;">
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/75c7c68e-affe-43ba-801c-f21cecde6143" alt="Node Express Dashboard" style="width: 300px; height: 200px;">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">MySQL Dashboard</td>
+    <td align="center">Docker Dashboard</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/cc576206-5092-442a-ae3b-1afdda0cc4bc" alt="MySQL Dashboard" style="width: 300px; height: 200px;">
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/4640d410-6ae6-4c86-9e9a-5e44a94e5ec1" alt="Docker Dashboard" style="width: 300px; height: 200px;">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">Host Dashboard</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/17039269-ab98-46e7-8d77-31c5831d3ecf" alt="Host Dashboard" style="width: 600px; height: 200px;">
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
