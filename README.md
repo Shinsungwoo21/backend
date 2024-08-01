@@ -75,6 +75,14 @@ DevOps
 
 
 <table align="center" style="border-collapse: collapse;">
+   <tr>
+    <td colspan="2" align="center">Host Dashboard</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github.com/user-attachments/assets/17039269-ab98-46e7-8d77-31c5831d3ecf" alt="Host Dashboard" style="width: 300px; height: 200px;">
+    </td>
+  </tr>
   <tr>
     <td align="center">Prometheus Dashboard</td>
     <td align="center">Node Express Dashboard</td>
@@ -97,14 +105,6 @@ DevOps
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/4640d410-6ae6-4c86-9e9a-5e44a94e5ec1" alt="Docker Dashboard" style="width: 300px; height: 200px;">
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">Host Dashboard</td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/17039269-ab98-46e7-8d77-31c5831d3ecf" alt="Host Dashboard" style="width: 300px; height: 200px;">
     </td>
   </tr>
 </table>
