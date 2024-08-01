@@ -4,27 +4,27 @@
 <th>Profiles</th>
 <td width="100" align="center">
 <a href="https://github.com/devwoon">
-<img src="https://github.com/user-attachments/assets/cee90a0d-2043-4946-96ef-fcf88ae0af43" width="60" height="60">
+<img src="https://github.com/user-attachments/assets/daba4a5e-008b-4dd8-bdfd-ac752fa723e83" width="85" height="120">
 </a>
 </td>
 <td width="100" align="center">
 <a href="https://github.com/Shin-Sujin">
-<img src="https://github.com/user-attachments/assets/fd9eb9a0-596c-4c3e-9369-251e7bd7edcd" width="60" height="60">
+<img src="https://github.com/user-attachments/assets/b6a67a45-a508-4eec-b84e-2cd7cd7827c6" width="85" height="120">
 </a>
 </td>
 <td width="100" align="center">
 <a href="https://github.com/Shinsungwoo21">
-<img src="https://github.com/user-attachments/assets/b82a4a66-58e2-40d6-a89b-e612f5ef00e9" width="60" height="60">
+<img src="https://github.com/user-attachments/assets/b1a5a5c4-525a-4a42-b619-ffaefc4fce88" width="85" height="120">
 </a>
 </td>
 <td width="100" align="center">
 <a href="https://github.com/bong-u">
-<img src="https://github.com/user-attachments/assets/5b3f19e5-d64b-4c77-bc99-e26e6db35b65" width="60" height="60">
+<img src="https://github.com/user-attachments/assets/3cdccfc5-66c6-4440-bea8-f3c1e6aba53f" width="85" height="120">
 </a>
 </td>
 <td width="100" align="center">
 <a href="https://github.com/yksoo00">
-<img src="https://github.com/user-attachments/assets/cba82a56-c81e-447f-943e-694b78d39287" width="60" height="60">
+<img src="https://github.com/user-attachments/assets/80dea79c-ce19-40e2-9453-8d9ac04d3b5c" width="85" height="120">
 </a>
 </td>
 <td width="100" align="center">
@@ -71,6 +71,16 @@ DevOps
 </tr>
 </thead>
 </table>
+
+
+
+
+![갑똘](https://github.com/user-attachments/assets/2dc73612-ee89-45c8-8d17-ab8a5d922080)
+![글루민](https://github.com/user-attachments/assets/b1a5a5c4-525a-4a42-b619-ffaefc4fce88)
+![너굴](https://github.com/user-attachments/assets/daba4a5e-008b-4dd8-bdfd-ac752fa723e8)
+![봉](https://github.com/user-attachments/assets/3cdccfc5-66c6-4440-bea8-f3c1e6aba53f)
+![존](https://github.com/user-attachments/assets/80dea79c-ce19-40e2-9453-8d9ac04d3b5c)
+![햄까스](https://github.com/user-attachments/assets/b6a67a45-a508-4eec-b84e-2cd7cd7827c6)
 
 
 
